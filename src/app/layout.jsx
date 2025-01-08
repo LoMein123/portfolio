@@ -1,5 +1,6 @@
 import "./globals.css";
 
+
 export const metadata = {
   title: "my portfolio",
   description: "Next.js, react, tailwindcss, and more",
